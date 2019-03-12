@@ -3,7 +3,7 @@
 Run the application 
 
 >cd the target directory contains  cruddemo-0.0.1-SNAPSHOT.jar
->java -jar cruddemo-0.0.1-SNAPSHOT.jar the start the application
+>java -jar cruddemo-0.0.1-SNAPSHOT.jar to start the application
 
 
 Open Postman to test 
